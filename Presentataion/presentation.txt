@@ -1,0 +1,12 @@
+I have created a presentation video demostrating the model and its output. Due to size limitation I can't upload it here. So Uploading it to github repo https://github.com/kapilkd13/capGemContest
+
+I have worked hard on this, please watch it :)
+
+Result in a csv format is along with this File.
+
+Result Format.
+
+Index: Month of the year
+Demand: Predicted by model
+optimal_demand: Optimized Demand after taking attrition and other factors
+shifted_supply_2_month: Supply to hire in this month to met demand of 2 month in future.( It is just shifted demand by two months)( based on Task 2)
